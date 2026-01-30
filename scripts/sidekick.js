@@ -1,4 +1,5 @@
 /* eslint-disable import/no-cycle */
+/* eslint-disable import/named */
 import { NX_ORIGIN } from './scripts.js';
 
 let expMod;
